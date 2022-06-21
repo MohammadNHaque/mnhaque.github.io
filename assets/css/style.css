@@ -1040,7 +1040,7 @@ main {
 .blog-posts { margin-bottom: 10px; }
 
 .blog-posts-list {
-  display: grid;
+  /* display: grid; */
   grid-template-columns: 1fr;
   gap: 20px;
 }
@@ -1881,5 +1881,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 	 */
 
   .timeline-text { max-width: 700px; }
+
+
 
 }
